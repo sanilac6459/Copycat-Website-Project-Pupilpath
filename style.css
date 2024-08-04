@@ -1,0 +1,88 @@
+body{
+  background: linear-gradient(90deg, #0078b9, #80379b)
+}
+img{
+  width: auto; 
+  height:150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box{
+  background-color: rgba(255,255,255,0.1);
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  box-sizing: border;
+  width: 300px;
+height: 200px;
+top: 50%;
+left: 50%;
+  border-radius: 5px;
+}
+.welcome{
+  color: white;
+  opacity: 0.8;
+  text-align: center;
+  position: relative; bottom: 225px;
+  font-family: 'Roboto', sans-serif;
+}
+.tiny{
+  background-color: white;
+  opacity: 0.1;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative; bottom: 230px;
+  width: 60px;
+  height: 30px;
+}
+.sign-in{
+  color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  position: relative; bottom: 271px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.parents{
+color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  position: relative; bottom: 257px;
+  font-family: 'Roboto', sans-serif;
+}
+.directions{
+color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  position: relative; bottom: 245px;
+  font-family: 'Roboto', sans-serif;
+}
+.password{
+color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  position: relative; bottom: 250px;
+  font-family: 'Roboto', sans-serif;
+}
+.extra{
+color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  position: relative; bottom: 225px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
